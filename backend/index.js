@@ -28,7 +28,7 @@ app.post("/verify-signature", (req, res) => {
   }
 });
 
-const PORT = 4000;
+const PORT = 10000;
 const server = app.listen(PORT, () => {
   console.log(`Backend listening on port ${PORT}`);
 });
