@@ -1,5 +1,11 @@
 # Dynamic.xyz Web3 Message Signer & Verifier Task
 
+Live Demo Links:
+
+Frontend: https://web3-message-signer-cmu9.vercel.app/
+
+Backend API: https://web3-message-signer-vwit.onrender.com
+
 This project is a full-stack web app built with **Next.js** (frontend) and **Node.js/Express** (backend) that lets users sign and verify blockchain messages securely using Dynamic.xyz’s headless authentication.
 
 - **Frontend:** `/app`, `/components`
